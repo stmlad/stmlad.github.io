@@ -1,0 +1,101 @@
+body{
+  text-align:center;
+}
+.header {  
+  }
+
+img{
+  height:300px;
+  width:900px;
+}
+
+h1{
+font-family: Abril Fatface;
+text-align: left;
+  margin-left: 37%;
+  margin-top:-100px;
+}
+
+.first{
+  font-family:Josefin Sans;
+  padding:30px;
+  text-align: left;
+  float: center;
+  left: 50%;
+  width:550px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+ul{
+  list-style-type: square;
+  padding:10px;
+  margin-left:20px;
+}
+.box::before{
+  content:open-quote}
+.box{
+  font-family: Abril Fatface;
+  font-size:40px;
+  width:700px;
+  height:150px;
+  background-color:gray;
+  color:white;
+  text-align:center;
+  line-height: 150px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:-35px;
+}
+
+.second{
+  font-family:Merriweather;
+  padding:30px;
+  text-align: left;
+  float: center;
+  left: 50%;
+  width:550px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:40px;
+}
+
+.lets{
+  font-size:15px;
+}
+
+h4{margin-bottom:0px}
+h5{
+  margin-top:0px;
+  
+}
+
+.ul1{
+  margin-top:-50px;
+  margin-bottom:-40px;
+}
+
+hr {
+  width:900px;
+  border: none;
+  height: 6px;
+  background: black;
+  margin-bottom:90px;
+}
+
+.third{
+  font-family:Merriweather;
+  text-align: left;
+  float: center;
+  left: 50%;
+  width:550px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:-50px;
+  margin-bottom:0px;
+}
+
+ul21{
+  margin-top:-0px;
+  margin-bottom:0px;
+}
